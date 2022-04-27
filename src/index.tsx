@@ -11,3 +11,10 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+/**
+ *     "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9"
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1"
+ */
